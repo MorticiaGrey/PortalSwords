@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "id": "portal_swords",
+  "version": "${version}",
+  "name": "Portal Swords",
+  "description": "Mod that adds swords capable of opening portals",
+  "authors": [
+    "Morticia"
+  ],
+  "contact": {
+    "repo": "https://github.com/MorticiaGrey/PortalSwords"
+  },
+  "license": "MIT",
+  "icon": "assets/morticia.portalswords/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "client": [
+      "org.morticia.portalswords.client.Morticia.portalswordsClient"
+    ],
+    "main": [
+      "org.morticia.portalswords.Morticia.portalswords"
+    ]
+  },
+  "mixins": [
+    "morticia.portalswords.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.11.6",
+    "fabric": "*",
+    "minecraft": "1.17.1"
+  }
+}
