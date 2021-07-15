@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " A ",
+    " B ",
+    " C "
+  ],
+  "key": {
+    "A": {
+      "item": "portalswords:rift_blade"
+    },
+    "B": {
+      "item": "portalswords:reinforced_hand_guard"
+    },
+    "C": {
+      "item": "portalswords:reinforced_handle"
+    }
+  },
+  "result": {
+    "item": "portalswords:riftstalker",
+    "count": 1
+  }
+}
+

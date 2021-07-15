@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "   ",
+    "ABA",
+    "   "
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:shulker_shell"
+    },
+    "B": {
+      "item": "minecraft:end_crystal"
+    }
+  },
+  "result": {
+    "item": "portalswords:reinforced_hand_guard",
+    "count": 1
+  }
+}
+
