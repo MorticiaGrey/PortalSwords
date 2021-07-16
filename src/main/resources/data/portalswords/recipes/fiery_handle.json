@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " A ",
+    " B ",
+    " A "
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:netherite_ingot"
+    },
+    "B": {
+      "item": "minecraft:magma_block"
+    }
+  },
+  "result": {
+    "item": "portalswords:fiery_handle",
+    "count": 1
+  }
+}
+

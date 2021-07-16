@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "   ",
+    "ABA",
+    "   "
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:netherite_ingot"
+    },
+    "B": {
+      "item": "minecraft:lava_bucket"
+    }
+  },
+  "result": {
+    "item": "portalswords:fiery_handguard",
+    "count": 1
+  }
+}
+

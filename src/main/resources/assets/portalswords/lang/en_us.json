@@ -1,8 +1,11 @@
 {
   "itemGroup.portalswords.portal_swords_item_group": "Portal Swords",
-  "item.portalswords.firestalker": "Fire Stalker",
-  "item.portalswords.riftstalker": "Rift Stalker",
+  "item.portalswords.firestalker": "Hellstalker",
+  "item.portalswords.riftstalker": "Riftstalker",
   "item.portalswords.reinforced_handle": "Reinforced Handle",
-  "item.portalswords.reinforced_hand_guard": "Reinforced Hand Guard",
-  "item.portalswords.rift_blade": "Rift Blade"
+  "item.portalswords.reinforced_hand_guard": "Reinforced Handguard",
+  "item.portalswords.rift_blade": "Rift Blade",
+  "item.portalswords.fiery_handle": "Fiery Handle",
+  "item.portalswords.fiery_handguard": "Fiery Handguard",
+  "item.portalswords.hell_blade": "Hell Blade"
 }

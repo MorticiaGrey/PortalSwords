@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " A ",
+    " B ",
+    " C "
+  ],
+  "key": {
+    "A": {
+      "item": "portalswords:hell_blade"
+    },
+    "B": {
+      "item": "portalswords:fiery_handguard"
+    },
+    "C": {
+      "item": "portalswords:fiery_handle"
+    }
+  },
+  "result": {
+    "item": "portalswords:firestalker",
+    "count": 1
+  }
+}
+
