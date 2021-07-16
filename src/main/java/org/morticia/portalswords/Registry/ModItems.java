@@ -29,11 +29,11 @@ public class ModItems {
         Registry.register(Registry.ITEM, new Identifier(portalswords.MOD_ID, "riftstalker"), RIFTSTALKER);
 
         // Crafting Materials
-        Registry.register(Registry.ITEM, new Identifier(portalswords.MOD_ID, "reinforced_pommel"), REINFORCEDHANDLE);
+        Registry.register(Registry.ITEM, new Identifier(portalswords.MOD_ID, "reinforced_hilt"), REINFORCEDHANDLE);
         Registry.register(Registry.ITEM, new Identifier(portalswords.MOD_ID, "reinforced_crossguard"), REINFORCEDHANDGUARD);
         Registry.register(Registry.ITEM, new Identifier(portalswords.MOD_ID, "rift_blade"), RIFTBLADE);
 
-        Registry.register(Registry.ITEM, new Identifier(portalswords.MOD_ID, "fiery_pommel"), FIERYHANDLE);
+        Registry.register(Registry.ITEM, new Identifier(portalswords.MOD_ID, "fiery_hilt"), FIERYHANDLE);
         Registry.register(Registry.ITEM, new Identifier(portalswords.MOD_ID, "fiery_crossguard"), FIERYHANDGUARD);
         Registry.register(Registry.ITEM, new Identifier(portalswords.MOD_ID, "hell_blade"), HELLBLADE);
     }
