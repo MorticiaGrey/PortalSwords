@@ -10,14 +10,14 @@
       "item": "portalswords:hell_blade"
     },
     "B": {
-      "item": "portalswords:fiery_handguard"
+      "item": "portalswords:fiery_crossguard"
     },
     "C": {
-      "item": "portalswords:fiery_handle"
+      "item": "portalswords:fiery_pommel"
     }
   },
   "result": {
-    "item": "portalswords:firestalker",
+    "item": "portalswords:hellstalker",
     "count": 1
   }
 }

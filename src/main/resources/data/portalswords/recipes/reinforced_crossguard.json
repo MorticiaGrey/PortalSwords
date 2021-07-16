@@ -7,14 +7,14 @@
   ],
   "key": {
     "A": {
-      "item": "minecraft:netherite_ingot"
+      "item": "minecraft:shulker_shell"
     },
     "B": {
-      "item": "minecraft:lava_bucket"
+      "item": "minecraft:end_crystal"
     }
   },
   "result": {
-    "item": "portalswords:fiery_handguard",
+    "item": "portalswords:reinforced_crossguard",
     "count": 1
   }
 }

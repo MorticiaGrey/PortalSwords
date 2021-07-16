@@ -10,10 +10,10 @@
       "item": "portalswords:rift_blade"
     },
     "B": {
-      "item": "portalswords:reinforced_hand_guard"
+      "item": "portalswords:reinforced_crossguard"
     },
     "C": {
-      "item": "portalswords:reinforced_handle"
+      "item": "portalswords:reinforced_pommel"
     }
   },
   "result": {

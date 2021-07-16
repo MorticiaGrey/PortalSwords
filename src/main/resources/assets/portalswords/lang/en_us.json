@@ -1,11 +1,11 @@
 {
   "itemGroup.portalswords.portal_swords_item_group": "Portal Swords",
-  "item.portalswords.firestalker": "Hellstalker",
+  "item.portalswords.hellstalker": "Hellstalker",
   "item.portalswords.riftstalker": "Riftstalker",
-  "item.portalswords.reinforced_handle": "Reinforced Pommel",
-  "item.portalswords.reinforced_hand_guard": "Reinforced Crossguard",
+  "item.portalswords.reinforced_pommel": "Reinforced Pommel",
+  "item.portalswords.reinforced_crossguard": "Reinforced Crossguard",
   "item.portalswords.rift_blade": "Rift Blade",
-  "item.portalswords.fiery_handle": "Fiery Pommel",
-  "item.portalswords.fiery_handguard": "Fiery Crossguard",
+  "item.portalswords.fiery_pommel": "Fiery Pommel",
+  "item.portalswords.fiery_crossguard": "Fiery Crossguard",
   "item.portalswords.hell_blade": "Hell Blade"
 }
